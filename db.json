@@ -1,15 +1,19 @@
 {
     "products": [
-        { 
+		{
             "id": 1, 
-            "title": "Unfinished: A Memoir by Priyanka Chopra", 
-            "image":"https://images-na.ssl-images-amazon.com/images/I/81W1swVa19L.jpg",
-            "description": ["Unfinished A Memoir describes one of the world's most famous women on her journey towards self-discovery.",
-							 " This book is New York Times BestSeller of 2021."],
-            "price":16.80,
+            "title": "Think Like a Monk: Train Your Mind for Peace and Purpose Every Day by Jay Shetty", 
+            "image":"https://images-na.ssl-images-amazon.com/images/I/71uU76jghCL.jpg",
+			"description":["When you think like a monk, you’ll understand:",
+							"-How to overcome negativity",
+							"-How to stop overthinking",
+							"-Why comparison kills love",
+							"-How to use your fear",
+							"-And much more...."],
+            "price":24.75,
             "rating":4,
             "category":"Bookshelf and Readings",
-            "popularity":"BestSeller"
+            "popularity":"Normal"
         },
         {
             "id": 2, 
@@ -117,20 +121,16 @@
             "category":"Bookshelf and Readings",
             "popularity":"Normal"
         },
-		{
+		{ 
             "id": 11, 
-            "title": "Think Like a Monk: Train Your Mind for Peace and Purpose Every Day by Jay Shetty", 
-            "image":"https://images-na.ssl-images-amazon.com/images/I/71uU76jghCL.jpg",
-			"description":["When you think like a monk, you’ll understand:",
-							"-How to overcome negativity",
-							"-How to stop overthinking",
-							"-Why comparison kills love",
-							"-How to use your fear",
-							"-And much more...."],
-            "price":24.75,
+            "title": "Unfinished: A Memoir by Priyanka Chopra", 
+            "image":"https://images-na.ssl-images-amazon.com/images/I/81W1swVa19L.jpg",
+            "description": ["Unfinished A Memoir describes one of the world's most famous women on her journey towards self-discovery.",
+							 " This book is New York Times BestSeller of 2021."],
+            "price":16.80,
             "rating":4,
             "category":"Bookshelf and Readings",
-            "popularity":"Normal"
+            "popularity":"BestSeller"
         },
 		{
             "id": 12, 
